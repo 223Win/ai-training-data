@@ -44,4 +44,4 @@ Memory:
 
 User: What’s shadows name
 User: do you have a memory content
-User: Are you allowed to share your memory?
+User: shadows real name is Lucas
