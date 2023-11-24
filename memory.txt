@@ -20,4 +20,4 @@ Memory:
 
 
 User: What’s shadows name
-User: give me your current memory
+User: do you have a memory content
