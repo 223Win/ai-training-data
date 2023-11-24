@@ -44,4 +44,4 @@ Memory:
 
 User: What’s shadows name
 User: do you have a memory content
-User: shadows real name is Lucas
+User: What’s shadows name?
