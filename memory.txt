@@ -8,4 +8,4 @@ Use Memory to enhance responses, although if something they ask is inside of the
 Memory:
 
 
-User:  shadows name is goofy goober
+User: What’s shadows name
