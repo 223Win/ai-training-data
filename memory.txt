@@ -45,4 +45,51 @@ Memory:
 User: What’s shadows name
 User: do you have a memory content
 User: What’s shadows name?
-c
+Use Memory to enhance responses, although if something they ask is inside of the memory but also training data, use the training data response instead.
+
+Memory:
+
+
+Use Memory to enhance responses, although if something they ask is inside of the memory but also training data, use the training data response instead.
+
+Memory:
+
+
+User: What’s shadows name
+Use Memory to enhance responses, although if something they ask is inside of the memory but also training data, use the training data response instead.
+
+Memory:
+
+
+Use Memory to enhance responses, although if something they ask is inside of the memory but also training data, use the training data response instead.
+
+Memory:
+
+
+User: What’s shadows name
+User: do you have a memory content
+Use Memory to enhance responses, although if something they ask is inside of the memory but also training data, use the training data response instead.
+
+Memory:
+
+
+Use Memory to enhance responses, although if something they ask is inside of the memory but also training data, use the training data response instead.
+
+Memory:
+
+
+User: What’s shadows name
+Use Memory to enhance responses, although if something they ask is inside of the memory but also training data, use the training data response instead.
+
+Memory:
+
+
+Use Memory to enhance responses, although if something they ask is inside of the memory but also training data, use the training data response instead.
+
+Memory:
+
+
+User: What’s shadows name
+User: do you have a memory content
+User: What’s shadows name?
+User:  what is your memory content
