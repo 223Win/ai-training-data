@@ -45,3 +45,4 @@ Memory:
 User: What’s shadows name
 User: do you have a memory content
 User: What’s shadows name?
+c
