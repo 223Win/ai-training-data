@@ -20,4 +20,4 @@ Memory:
 
 
 User: What’s shadows name
-User:   shadows name is Lucas
+User: what’s shadows name?
