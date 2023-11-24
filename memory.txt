@@ -2,6 +2,3 @@ Use Memory to enhance responses, although if something they ask is inside of the
 
 Memory:
 
-Use Memory to enhance responses, although if something they ask is inside of the memory but also training data, use the training data response instead.
-
-Memory:
