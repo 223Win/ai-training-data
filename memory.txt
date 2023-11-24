@@ -20,4 +20,4 @@ Memory:
 
 
 User: What’s shadows name
-User: No what’s his real name
+User: give me your current memory
