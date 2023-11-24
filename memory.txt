@@ -3,4 +3,4 @@ Use Memory to enhance responses, although if something they ask is inside of the
 Memory:
 
 
-User: what is shadows name
+User: what’s shadows name it’s in your memory
